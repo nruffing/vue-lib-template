@@ -8,3 +8,4 @@ After creating new repository with this as a template make sure to update the fo
  - [ ] Update keywords and description in `package.json`
  - [ ] Update `README.md`
  - [ ] Update package name in `.github/workflows/ci_cd.yml`
+ - [ ] Update package name in `vite.config.ts`
