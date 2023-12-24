@@ -9,3 +9,9 @@ After creating new repository with this as a template make sure to update the fo
  - [ ] Update `README.md`
  - [ ] Update package name in `.github/workflows/ci_cd.yml`
  - [ ] Update package name in `vite.config.ts`
+
+### Potential Additions
+
+ - [ ] docs site
+ - [ ] vitest
+ - [ ] readme badges
